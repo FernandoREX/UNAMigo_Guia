@@ -1,0 +1,2 @@
+# UNAMigo_Guia
+El proyecto UNAMigo Guía fue creado con la intención de ayudar a aquellas personas que no conocen cómo transportarse dentro de Ciudad Universitaria, el proyecto utiliza las rutas 1, 2 y 3 del servicio de transporte gratuito pumabús, porque a mí parecer son de las más concurridas durante todo el año. UNAMigo Guía te ayudará a saber qué transporte utilizar, por cuáles estaciones pasar hasta llegar a tu destino, además de un tiempo estimado.
